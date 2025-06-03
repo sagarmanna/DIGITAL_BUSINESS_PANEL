@@ -16,4 +16,8 @@ Context API, React Hooks
 FullCalendar
 react-beautiful-dnd
 📸 Screenshots
-![Screenshot 2025-06-04 005753](https://github.com/user-attachments/assets/efc33c10-b5a3-43ab-aacc-7df87a77b3e1)
+
+![Screenshot 2025-06-04 005700](https://github.com/user-attachments/assets/bb2dad40-6350-4dd2-8e88-e7b76d812577)
+![Screenshot 2025-06-04 005720](https://github.com/user-attachments/assets/09385ef3-e7c2-486c-94e1-89e0e8ad6dfd)
+![Screenshot 20![Screenshot 2025-06-04 005753](https://github.com/user-attachments/assets/094f9cc8-1a86-4ce4-ba36-f496dec90edd)
+25-06-04 005735](https://github.com/user-attachments/assets/5a726dc0-3d9a-40ba-8275-8e1e106dea14)
