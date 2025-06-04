@@ -34,7 +34,3 @@ A modern **Admin Panel** built with **ReactJS** and , featuring a **Trello-style
 ![Calendar View](https://github.com/user-attachments/assets/5a726dc0-3d9a-40ba-8275-8e1e106dea14)  
 ![Table View](https://github.com/user-attachments/assets/094f9cc8-1a86-4ce4-ba36-f496dec90edd)  
 
----
-
-## 🧠 Project Structure
-
