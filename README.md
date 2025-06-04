@@ -1,6 +1,6 @@
 # 🚀 Admin Panel Dashboard
 
-A modern **Admin Panel** built with **ReactJS** and **Vite**, featuring a **Trello-style Kanban Board**, **Event Calendar**, and a clean **modular structure**.
+A modern **Admin Panel** built with **ReactJS** and , featuring a **Trello-style Kanban Board**, **Event Calendar**, and a clean **modular structure**.
 
 [![Live Demo](https://img.shields.io/badge/View-Live--Demo-orange?style=for-the-badge&logo=vercel)](https://digital-business-panel-h1of0mi27-sagars-projects-0fe093eb.vercel.app)
 
