@@ -11,10 +11,13 @@
   );
 }
 
-body {
+html, body {
   margin: 0;
   padding: 0;
+  height: 100%;
+  overflow: hidden; /* prevent double scroll */
 }
+
 
 * {
   box-sizing: border-box;
@@ -25,7 +28,9 @@ body {
   background-color: black;
   color: white;
   font-family: "Public Sans", sans-serif;
-  overflow: hidden;
+  overflow-y: auto;
+    overflow-x: hidden;
+
 }
 
 .theme-container {
@@ -82,3 +87,4 @@ body {
   background-color: darkgrey;
   width: 5px;
 }
+
